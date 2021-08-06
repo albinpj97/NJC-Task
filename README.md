@@ -2,7 +2,7 @@
 Movie details table
 
 - step 1: Run apache server and mysql.
-- step 2: should intall mysql support package
+- step 2: should intall mysql support package in python.
 - step 3: Run python file attached here.
 
 
